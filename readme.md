@@ -4,7 +4,7 @@
 
 Учебный проект
 
-Ссылка на проект []()
+Ссылка на проект [https://serrjik.github.io/iPhone-layout/](https://serrjik.github.io/iPhone-layout/)
 
 ### Примененные технологии в проекте:
 
