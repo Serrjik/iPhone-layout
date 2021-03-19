@@ -1,6 +1,7 @@
 # Промостраница iPhone 12 Pro на JavaScript
 
-https://raw.githubusercontent.com/Serrjik/iPhone-layout/master/screenshot.jpg
+![Скриншот шапки промостраницы iPhone 12 Pro](https://raw.githubusercontent.com/Serrjik/iPhone-layout/master/screenshot.jpg)
+
 
 Учебный проект
 
